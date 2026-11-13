@@ -1,1 +1,5 @@
-Datum,Modultag,Person,Issue,Task,Dauer,Bemerkung
+Datum,Modultag,Issue,Task,Dauer,Bemerkung
+13.11.2026,Tag 1, #1, P1, 1h, init von dem Repo gemacht. Teammitglieder eingeladen. Teams/Github Probleme
+13.11.2026,Tag 1, #2, T1, 1h, Theorie gelesen und Journal geführt
+13.11.2026,Tag 1, -, -, 0.5h, Git Kanban board und issues geführt
+13.11.2026,Tag 1, -, -, 0.5h, CALMS 
