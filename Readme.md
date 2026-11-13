@@ -7,6 +7,7 @@
 | Ronny Bruhin | [Lernjournal Bruhin](Documentation/bruhin/readme.md) | [Zeitlogging Bruhin](Documentation/bruhin/timelog.csv) |
 | Tim Fischer | [Lernjournal Fischer](Documentation/Fischer/lernjournal.md) | [Zeitlogging Fischer](Documentation/Fischer/Zeitlogging.csv) |
 | Tim Kral | [Lernjournal Kral](Documentation/kral/journal.md) | [Zeitlogging Kral](Documentation/kral/timelog.csv) |
+| Seker Batuhan | [Lernjournal Seker](Documentation/Seker/Lernjournal/) | [Zeitlogging Seker](Documentation/Seker/Zeitlogging.csv) |
 
 ## Theorieinhalte
 
