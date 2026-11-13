@@ -1,0 +1,4 @@
+# Personal Journal - Tim Kral
+
+
+
